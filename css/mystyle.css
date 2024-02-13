@@ -23,6 +23,10 @@ a:link, a:visited {
         width: auto;
         background-color: lightyellow;
     }
+    #load-screen {
+        display: grid;
+        justify-content: center;
+    }
 }
 #load-screen {
     background: url(../images/header-back.png);
