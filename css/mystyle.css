@@ -38,4 +38,7 @@ a:link, a:visited {
     background: url(../images/loader.gif);
     background-size: 40%;  background-repeat: no-repeat;  background-position: center;
 }
+iframe {
+    height: 300px;
+}
   
